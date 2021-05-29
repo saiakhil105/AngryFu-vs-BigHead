@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/balthazar</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cabin_condensed_regular</item>
+        <item>@font/convergence</item>
+        <item>@font/erica_one</item>
+        <item>@font/merienda</item>
+        <item>@font/nova_square</item>
+        <item>@font/volkhov</item>
+    </array>
+</resources>
